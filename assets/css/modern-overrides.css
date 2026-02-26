@@ -1,0 +1,33 @@
+﻿/* Non-destructive visual refresh on top of original site */
+#g-page-surround {
+  max-width: 1280px;
+  margin: 0 auto;
+  background: #ffffff;
+  box-shadow: 0 16px 48px rgba(0,0,0,0.08);
+}
+#g-top {
+  background: linear-gradient(90deg, #0d5f53, #0a3f37);
+}
+#g-top, #g-top a, #g-top .g-simplecontact li, #g-top .top .mod-finder__search .btn {
+  color: #eaf6f2 !important;
+}
+#g-navigation {
+  border-bottom: 1px solid #e5ece8;
+  backdrop-filter: blur(8px);
+}
+.g-main-nav .g-toplevel > li > .g-menu-item-container {
+  font-weight: 600;
+}
+.g-main-nav .g-toplevel > li > .g-menu-item-container:hover {
+  color: #0d5f53 !important;
+}
+.g-logo img {
+  border-radius: 50%;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+}
+.button, .btn, .g-cta .button {
+  border-radius: 999px !important;
+}
+body {
+  background: radial-gradient(circle at 8% 4%, #f4fbf8 0, #f5f6f4 35%, #f0f2ef 100%);
+}
