@@ -1,0 +1,1238 @@
+                                        <!DOCTYPE html>
+<html lang="pt-BR" dir="ltr">
+        <head>
+    
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        
+
+                <link rel="icon" type="image/x-icon" href="/templates/rt_horizon/custom/images/stories/logo_chabad.png" />
+        
+            
+         <meta charset="utf-8">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Home</title>
+	<link href="https://chabadcuritiba.com/index.php/search?format=opensearch" rel="search" title="OpenSearch ChabadCuritiba" type="application/opensearchdescription+xml">
+
+    <link href="/media/vendor/awesomplete/css/awesomplete.css?1.1.5" rel="stylesheet" />
+	<link href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" rel="stylesheet" />
+	<link href="/media/gantry5/assets/css/lightcase.css" rel="stylesheet" />
+	<link href="/media/gantry5/engines/nucleus/css-compiled/nucleus.css" rel="stylesheet" />
+	<link href="/templates/rt_horizon/custom/css-compiled/horizon_14.css" rel="stylesheet" />
+	<link href="/media/gantry5/engines/nucleus/css-compiled/bootstrap5.css" rel="stylesheet" />
+	<link href="/media/system/css/joomla-fontawesome.min.css" rel="stylesheet" />
+	<link href="/media/gantry5/assets/css/font-awesome.min.css" rel="stylesheet" />
+	<link href="/templates/rt_horizon/custom/css-compiled/horizon-joomla_14.css" rel="stylesheet" />
+	<link href="/templates/rt_horizon/custom/css-compiled/custom_14.css" rel="stylesheet" />
+	<link href="/templates/rt_horizon/css/swiper.min.css" rel="stylesheet" />
+
+    <script src="/media/plg_captcha_recaptcha/js/recaptcha.min.js?3fc242cfec5a3716405f5a9360c6782c" defer></script>
+	<script src="https://www.google.com/recaptcha/api.js?onload=JoomlainitReCaptcha2&amp;render=explicit&amp;hl=pt-BR" defer></script>
+	<script type="application/json" class="joomla-script-options new">{"joomla.jtext":{"MOD_FINDER_SEARCH_VALUE":"Pesquisar...","JLIB_JS_AJAX_ERROR_OTHER":"Ocorreu um erro ao buscar os dados JSON: c\u00f3digo de status HTTP %s.","JLIB_JS_AJAX_ERROR_PARSE":"Ocorreu um erro de execu\u00e7\u00e3o ao processar os seguintes dados JSON:<br><code style=\"color:inherit;white-space:pre-wrap;padding:0;margin:0;border:0;background:inherit;\">%s<\/code>","JLIB_FORM_CONTAINS_INVALID_FIELDS":"O formul\u00e1rio n\u00e3o pode ser enviado por falta de dados necess\u00e1rios.<br>Por favor, corrija os campos assinalados e tente novamente.","JLIB_FORM_FIELD_REQUIRED_VALUE":"Por favor, preencha este campo","JLIB_FORM_FIELD_REQUIRED_CHECK":"Uma das op\u00e7\u00f5es deve ser selecionada","JLIB_FORM_FIELD_INVALID_VALUE":"Esse valor n\u00e3o \u00e9 v\u00e1lido"},"finder-search":{"url":"\/index.php\/component\/finder\/?task=suggestions.suggest&format=json&tmpl=component&Itemid=165"},"system.paths":{"root":"","rootFull":"https:\/\/chabadcuritiba.com\/","base":"","baseFull":"https:\/\/chabadcuritiba.com\/"},"csrf.token":"b0c098e8e57dbe2affc691f370e7bce5","system.keepalive":{"interval":840000,"uri":"\/index.php\/component\/ajax\/?format=json"}}</script>
+	<script src="/media/system/js/core.min.js?ee06c8994b37d13d4ad21c573bbffeeb9465c0e2"></script>
+	<script src="/media/system/js/keepalive-es5.min.js?4eac3f5b0c42a860f0f438ed1bea8b0bdddb3804" defer nomodule></script>
+	<script src="/media/com_finder/js/finder-es5.min.js?e6d3d1f535e33b5641e406eb08d15093e7038cc2" nomodule defer></script>
+	<script src="/media/system/js/fields/validate.min.js?2fb94a1b8b473b5921a0a416ad8d50d4b3315530" defer></script>
+	<script src="/media/system/js/keepalive.min.js?9f10654c2f49ca104ca0449def6eec3f06bd19c0" type="module"></script>
+	<script src="/media/vendor/awesomplete/js/awesomplete.min.js?1.1.5" defer></script>
+	<script src="/media/com_finder/js/finder.min.js?a2c3894d062787a266d59d457ffba5481b639f64" type="module"></script>
+	<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
+	<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
+
+    
+                
+</head>
+
+    <body class="gantry site com_contact view-contact no-layout no-task dir-ltr itemid-165 outline-14 g-offcanvas-left g-home-particles g-style-">
+        
+                    
+
+        <div id="g-offcanvas"  data-g-offcanvas-swipe="0" data-g-offcanvas-css3="1">
+                        <div class="g-grid">                        
+
+        <div class="g-block size-100">
+             <div id="mobile-menu-8402-particle" class="g-content g-particle">            <div id="g-mobilemenu-container" data-g-menu-breakpoint="51rem"></div>
+            </div>
+        </div>
+            </div>
+    </div>
+        <div id="g-page-surround">
+            <div class="g-offcanvas-hide g-offcanvas-toggle" role="navigation" data-offcanvas-toggle aria-controls="g-offcanvas" aria-expanded="false"><i class="fa fa-fw fa-bars"></i></div>                        
+
+                                            
+                <section id="g-top">
+                                        <div class="g-grid">                        
+
+        <div class="g-block size-100">
+             <div class="g-system-messages">
+                                            <div id="system-message-container">
+    </div>
+
+            
+    </div>
+        </div>
+            </div>
+                            <div class="g-grid">                        
+
+        <div class="g-block size-33 align-left">
+             <div id="simplecontact-1685-particle" class="g-content g-particle">            <div class="g-simplecontact-particle ">
+		<ul class="g-simplecontact">
+							<li>
+											<i class="fa fa-home"></i>
+										                    B"H - Beit Chabad
+                    				</li>
+							<li>
+											<i class="fa fa-map-marker"></i>
+										                    Curitiba, Paraná
+                    				</li>
+					</ul>
+	</div>
+            </div>
+        </div>
+                    
+
+        <div class="g-block size-34 align-right nopaddingtop nopaddingbottom hidden-phone">
+             <div id="social-1088-particle" class="g-content g-particle">            <div class="g-social ">
+                <div class="g-social-items">
+                            <a target="_blank" href="https://www.facebook.com/ChabadCuritiba" title="" aria-label="">
+                    <span class="fa fa-facebook fa-fw"></span>                    <span class="g-social-text"></span>                </a>
+                            <a target="_blank" href="http://www.twitter.com/ChabadCuritiba" title="" aria-label="">
+                    <span class="fa fa-twitter fa-fw"></span>                    <span class="g-social-text"></span>                </a>
+                            <a target="_blank" href="#" title="" aria-label="">
+                    <span class="fa fa-linkedin fa-fw"></span>                    <span class="g-social-text"></span>                </a>
+                    </div>
+    </div>
+            </div>
+        </div>
+                    
+
+        <div class="g-block size-33">
+             <div class="g-content">
+                                    <div class="platform-content"><div class="top moduletable ">
+        
+<form class="mod-finder js-finder-searchform form-search" action="/index.php/search" method="get" role="search">
+    <label for="mod-finder-searchword141" class="visually-hidden finder">Busca</label><div class="mod-finder__search input-group"><input type="text" name="q" id="mod-finder-searchword141" class="js-finder-search-query form-control" value="" placeholder="Pesquisar..."><button class="btn btn-primary" type="submit"><span class="icon-search icon-white" aria-hidden="true"></span> Busca</button></div>
+            </form>
+</div></div>
+            
+        </div>
+        </div>
+            </div>
+            
+    </section>
+                                        
+                <section id="g-navigation">
+                                        <div class="g-grid">                        
+
+        <div class="g-block size-15 align-left nomargintop nopaddingtop nomarginbottom nopaddingbottom">
+             <div id="logo-4955-particle" class="g-content g-particle">            <a href="/" class="g-logo" target="_self" title="" rel="home">
+		
+												<img src="/templates/rt_horizon/custom/images/new-logo-40.jpg" alt=""/>
+											
+			
+						</a>
+            </div>
+        </div>
+                    
+
+        <div class="g-block size-69 align-left nomargintop nopaddingtop nomarginbottom nopaddingbottom">
+             <div id="menu-1322-particle" class="g-content g-particle">            <nav class="g-main-nav" data-g-hover-expand="true">
+        <ul class="g-toplevel">
+                                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-18 g-parent g-standard g-menu-item-link-parent ">
+                            <a class="g-menu-item-container" href="/index.php/chabad">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Chabad</span>
+            
+                    </span>
+                    <span class="g-menu-parent-indicator" data-g-menuparent=""></span>                            </a>
+                                                                            <ul class="g-dropdown g-inactive g-fade g-dropdown-right">
+            <li class="g-dropdown-column">
+                        <div class="g-grid">
+                        <div class="g-block size-100">
+            <ul class="g-sublevel">
+                <li class="g-level-1 g-go-back">
+                    <a class="g-menu-item-container" href="#" data-g-menuparent=""><span>Back</span></a>
+                </li>
+                                                                                                                    
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-26  ">
+                            <a class="g-menu-item-container" href="/index.php/chabad/about">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Quem somos?</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-24  ">
+                            <a class="g-menu-item-container" href="/index.php/chabad/rebbe">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">O Rebe</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-44  ">
+                            <a class="g-menu-item-container" href="/index.php/chabad/doar">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Doação</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-37  ">
+                            <a class="g-menu-item-container" href="/index.php/chabad/echabad">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">eChabad</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-25  ">
+                            <a class="g-menu-item-container" href="/index.php/chabad/mitzvot">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Campanha das Mitsvot</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+    
+            </ul>
+        </div>
+            </div>
+
+            </li>
+        </ul>
+            </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-2 g-parent g-standard g-menu-item-link-parent ">
+                            <a class="g-menu-item-container" href="/index.php/services">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Serviços</span>
+            
+                    </span>
+                    <span class="g-menu-parent-indicator" data-g-menuparent=""></span>                            </a>
+                                                                            <ul class="g-dropdown g-inactive g-fade g-dropdown-right">
+            <li class="g-dropdown-column">
+                        <div class="g-grid">
+                        <div class="g-block size-100">
+            <ul class="g-sublevel">
+                <li class="g-level-1 g-go-back">
+                    <a class="g-menu-item-container" href="#" data-g-menuparent=""><span>Back</span></a>
+                </li>
+                                                                                                                    
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-3 g-parent g-menu-item-link-parent ">
+                            <a class="g-menu-item-container" href="/index.php/services/sinagoga">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Sinagoga</span>
+            
+                    </span>
+                    <span class="g-menu-parent-indicator" data-g-menuparent=""></span>                            </a>
+                                                                            <ul class="g-dropdown g-inactive g-fade g-dropdown-right">
+            <li class="g-dropdown-column">
+                        <div class="g-grid">
+                        <div class="g-block size-100">
+            <ul class="g-sublevel">
+                <li class="g-level-2 g-go-back">
+                    <a class="g-menu-item-container" href="#" data-g-menuparent=""><span>Back</span></a>
+                </li>
+                                                                                                                    
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-38  ">
+                            <a class="g-menu-item-container" href="/index.php/services/sinagoga/as-grandes-festas">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">As grandes Festas</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+    
+            </ul>
+        </div>
+            </div>
+
+            </li>
+        </ul>
+            </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-4  ">
+                            <a class="g-menu-item-container" href="/index.php/services/ganenu">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Ganênu</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-5  ">
+                            <a class="g-menu-item-container" href="/index.php/services/mikve">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Mikve</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-6 g-parent g-menu-item-link-parent ">
+                            <a class="g-menu-item-container" href="/index.php/services/store">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">KiTov - Alimentos Casher</span>
+            
+                    </span>
+                    <span class="g-menu-parent-indicator" data-g-menuparent=""></span>                            </a>
+                                                                            <ul class="g-dropdown g-inactive g-fade g-dropdown-right">
+            <li class="g-dropdown-column">
+                        <div class="g-grid">
+                        <div class="g-block size-100">
+            <ul class="g-sublevel">
+                <li class="g-level-2 g-go-back">
+                    <a class="g-menu-item-container" href="#" data-g-menuparent=""><span>Back</span></a>
+                </li>
+                                                                                                                    
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-28  ">
+                            <a class="g-menu-item-container" href="/index.php/services/store/in-store">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Loja</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-29  ">
+                            <a class="g-menu-item-container" href="/index.php/services/store/orders">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Encomendas</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-30  ">
+                            <a class="g-menu-item-container" href="/index.php/services/store/culinaria">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Culinária</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+    
+            </ul>
+        </div>
+            </div>
+
+            </li>
+        </ul>
+            </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-7  ">
+                            <a class="g-menu-item-container" href="/index.php/services/bat-mitzva">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Clube de Bat Mitzvá</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-8  ">
+                            <a class="g-menu-item-container" href="/index.php/services/clubinho-chai">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Clubinho Chai - Chabad</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-35  ">
+                            <a class="g-menu-item-container" href="/index.php/services/yahrtzeit">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">O Yahrtzeit</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-43  ">
+                            <a class="g-menu-item-container" href="/index.php/services/informacoes-de-curitiba">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Informações de Curitiba</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+    
+            </ul>
+        </div>
+            </div>
+
+            </li>
+        </ul>
+            </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-9 g-standard  ">
+                            <a class="g-menu-item-container" href="/index.php/fotos">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Fotos</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-10 g-parent g-standard g-menu-item-link-parent ">
+                            <a class="g-menu-item-container" href="/index.php/colel">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Colel</span>
+            
+                    </span>
+                    <span class="g-menu-parent-indicator" data-g-menuparent=""></span>                            </a>
+                                                                            <ul class="g-dropdown g-inactive g-fade g-dropdown-right">
+            <li class="g-dropdown-column">
+                        <div class="g-grid">
+                        <div class="g-block size-100">
+            <ul class="g-sublevel">
+                <li class="g-level-1 g-go-back">
+                    <a class="g-menu-item-container" href="#" data-g-menuparent=""><span>Back</span></a>
+                </li>
+                                                                                                                    
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-11  ">
+                            <a class="g-menu-item-container" href="/index.php/colel/aulas">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Aulas</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-12  ">
+                            <a class="g-menu-item-container" href="/index.php/colel/giftshop">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Gift Shop</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-13  ">
+                            <a class="g-menu-item-container" href="/index.php/colel/biblioteca">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Biblioteca</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+    
+            </ul>
+        </div>
+            </div>
+
+            </li>
+        </ul>
+            </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-27 g-parent g-standard g-menu-item-link-parent ">
+                            <a class="g-menu-item-container" href="/index.php/kiruv">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Juventude</span>
+            
+                    </span>
+                    <span class="g-menu-parent-indicator" data-g-menuparent=""></span>                            </a>
+                                                                            <ul class="g-dropdown g-inactive g-fade g-dropdown-right">
+            <li class="g-dropdown-column">
+                        <div class="g-grid">
+                        <div class="g-block size-100">
+            <ul class="g-sublevel">
+                <li class="g-level-1 g-go-back">
+                    <a class="g-menu-item-container" href="#" data-g-menuparent=""><span>Back</span></a>
+                </li>
+                                                                                                                    
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-39  ">
+                            <a class="g-menu-item-container" href="/index.php/kiruv/projeto-alicerces">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Projeto Alicerces</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-48  ">
+                            <a class="g-menu-item-container" href="/index.php/kiruv/projeto-i-know-i-go">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Projeto I know.. I Go</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+    
+            </ul>
+        </div>
+            </div>
+
+            </li>
+        </ul>
+            </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-19 g-standard  ">
+                            <a class="g-menu-item-container" href="/index.php/contact">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Fale Conosco</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+    
+        </ul>
+    </nav>
+            </div>
+        </div>
+                    
+
+        <div class="g-block size-16 nomargintop nopaddingtop nomarginbottom nopaddingbottom">
+             <div id="button-2282-particle" class="g-content g-particle">            <div class="g-button">
+<a href="http://www.chabadcuritiba.com/index.php/chabad/doar" target="_self"  class="button button-2" title="Doar">
+Doar
+</a>
+</div>
+            </div>
+        </div>
+            </div>
+            
+    </section>
+                                        
+                <section id="g-slideshow" class="no-background-image">
+                                        <div class="g-grid">                        
+
+        <div class="g-block size-100 nomarginall nopaddingall">
+             <div id="slider-5618-particle" class="g-content g-particle">            <div id="slider-5618" data-slider-id="slider-5618">
+	<div class="g-slider swiper-container area " data-slider-autoplay="true" data-slider-loop="true" data-slider-timeout="8000" data-slider-speed="800" data-slider-touchmove="true" >
+
+<div class="g-slider-patterns-left">
+	<svg viewbox="0 0 349 477" fill="none" xmlns="http://www.w3.org/2000/svg">
+		<path d="M0 24L73.6122 66.5V151.5L0 194L-73.6122 151.5V66.5L0 24Z" class="base-pattern-3"/>
+		<path d="M110 99L140.311 116.5V151.5L110 169L79.6891 151.5V116.5L110 99Z" class="base-pattern-3"/>
+		<path d="M76 158L106.311 175.5V210.5L76 228L45.6891 210.5V175.5L76 158Z" class="base-pattern-2"/>
+		<path d="M187 133L260.612 175.5V260.5L187 303L113.388 260.5V175.5L187 133Z" class="base-pattern-1"/>
+		<path d="M55 407L85.3109 424.5V459.5L55 477L24.6891 459.5V424.5L55 407Z" class="base-pattern-1"/>
+		<path d="M264 0L337.612 42.5V127.5L264 170L190.388 127.5V42.5L264 0Z" class="base-pattern-2"/>
+		<path d="M298 158L328.311 175.5V210.5L298 228L267.689 210.5V175.5L298 158Z" class="base-pattern-3"/>
+	</svg>
+</div>
+<div class="g-slider-patterns-right">
+	<svg viewbox="0 0 673 403" fill="none" xmlns="http://www.w3.org/2000/svg">
+		<path d="M671 213L744.612 255.5V340.5L671 383L597.388 340.5V255.5L671 213Z" class="base-pattern-2"/>
+		<path d="M594 80L667.612 122.5V207.5L594 250L520.388 207.5V122.5L594 80Z" class="base-pattern-1"/>
+		<path d="M561 239L591.311 256.5V291.5L561 309L530.689 291.5V256.5L561 239Z" class="base-pattern-3"/>
+		<path d="M626 22L656.311 39.5V74.5L626 92L595.689 74.5V39.5L626 22Z" class="base-pattern-3"/>
+		<path d="M593.5 0L608.655 8.75V26.25L593.5 35L578.345 26.25V8.75L593.5 0Z" class="base-pattern-2"/>
+	</svg>
+</div>
+
+		<div class="g-slider-carousel swiper-wrapper">
+									<div class="swiper-slide">
+					<div class="slide">
+						<div class="g-slider-carousel-content-wrapper">
+															<img src="/templates/rt_horizon/custom/images/stories/rotater/Sinagoga-slider.jpg" alt="Bem Vindo ao chabad do Paraná" />
+														<div class="g-slider-carousel-content">
+								<div class="g-slider-carousel-content-wrapper">
+									<h1>Bem Vindo ao chabad do Paraná</h1>
+									<p>O Beit Chabad faz parte da organização Chabad mundial com mais de 3.000 centros</p>
+									<a href="/index.php/chabad/about" target="_self">
+										Leia Mais -&gt;
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="swiper-slide">
+					<div class="slide">
+						<div class="g-slider-carousel-content-wrapper">
+															<img src="/templates/rt_horizon/custom/images/stories/rotater/rebbe-slider.jpg" alt="O Rebe" />
+														<div class="g-slider-carousel-content">
+								<div class="g-slider-carousel-content-wrapper">
+									<h1>O Rebe</h1>
+									<p>11 de Nissan marca 120 anos de seu aniversário</p>
+									<a href="https://pt.chabad.org/therebbe/default_cdo/jewish/O-Rebe.htm" target="_self">
+										Leia Mais -&gt;
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="swiper-slide">
+					<div class="slide">
+						<div class="g-slider-carousel-content-wrapper">
+															<img src="/templates/rt_horizon/custom/images/stories/rotater/seder-slider.jpg" alt="A festa de Pessach - Festa de liberdade" />
+														<div class="g-slider-carousel-content">
+								<div class="g-slider-carousel-content-wrapper">
+									<h1>A festa de Pessach - Festa de liberdade</h1>
+									<p>Este ano começa 15 de abril</p>
+									<a href="/index.php?option=com_content&amp;view=article&amp;id=157:pessach-costumes&amp;catid=18:historia-e-costumes&amp;Itemid=18" target="_self">
+										Leia Mais -&gt;
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+							</div>
+        			<div class="swiper-pagination"></div>
+        	</div>
+</div>
+            </div>
+        </div>
+            </div>
+            
+    </section>
+                                        
+                <section id="g-showcase" class="section-horizontal-paddings">
+                                        <div class="g-grid">                        
+
+        <div class="g-block size-100 center">
+             <div id="infolist-3792-particle" class="g-content g-particle">            <div class="g-infolist-particle">
+
+					<h2 class="g-title g-infolist-title">Em destaque</h2>
+		
+					<p class="g-desc"><br /></p>
+		
+		<div class="g-infolist g-3cols ">
+
+							<div class="g-infolist-item g-infolist-with-icon g-infolist-with-img center">
+
+					<div class="g-infolist-item-container">
+
+						
+						
+																			<div class="g-infolist-item-icon center">
+																					<div class="g-infolist-pattern-1">
+									<svg width="105" height="70" viewbox="0 0 105 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+										<path d="M35 0L65.3109 17.5V52.5L35 70L4.68911 52.5V17.5L35 0Z" class="base-pattern-2"/>
+										<path d="M87.5 26L102.655 34.75V52.25L87.5 61L72.3446 52.25V34.75L87.5 26Z" class="base-pattern-3"/>
+									</svg>
+								</div>
+																																			<i class="fa fa-fire noaccent"></i>
+						</div>
+						
+						
+																			<div class="g-infolist-item-img g-block size-22 center ">
+							
+								<img src="/images/stories/rotater/candles.jpg" alt="/Horário%20das%20velas"/>
+
+														</div>
+						
+						
+						<div class="g-infolist-item-text  g-infolist-textstyle-compact">
+
+							
+							<div class="g-infolist-item-title ">Horário das velas</div>
+															<div class="g-infolist-item-desc">
+									
+										<style type="text/css">
+.CLTable{background-color:#DBEAF5;border-color:#A0C6E5;font-size:11px}.CLHeadingBold{font-family:Tahoma,Arial,Verdana;font-size:11px;text-align:center;font-weight:bold}.CLheading{font-family:Tahoma,Arial,Verdana;font-size:11px;text-align:center;color:#000}A.CLLink{font-family:Tahoma,Arial,Verdana;font-size:9px;text-align:center;color:#000;text-decoration:none}A.CLLink:Hover{font-family:Tahoma,Arial,Verdana;font-size:9px;text-align:center;color:#000;text-decoration:underline}.CLdate{font-family:Tahoma,Arial,Verdana;font-size:11px;text-align:left;font-weight:bold;text-decoration:none}.CLtime{font-family:Tahoma,Arial,Verdana;font-size:11px;text-align:right;font-weight:normal;margin-bottom:0}.CLhr{color:#666;height:1px;width:50%}.CLHolName{font-weight:normal}
+</style>
+<!-- You may customize the design of the candle lighting times by modifying the CSS styles above. -->
+<!-- Do not modify any code below this line -->
+<!-- Copyright Chabad.org 1993-2022 -->
+<table width="190" cellpadding="0" cellspacing="0" border="0"><tr><td width="100%" class="clheading">
+<script type="text/javascript" language="javascript" src="//www.pt.chabad.org/tools/shared/candlelighting/candlelighting.js.asp?locationId=941&locationType=1&ln=2&weeks=1"></script></td></tr></table>
+
+																		</div>
+							
+															<div class="g-infolist-link">
+									<a href="https://pt.chabad.org/library/article_cdo/aid/1127765/jewish/Velas-do-Shabat.htm" target="_self" class="">
+																				Saber mais -&gt;
+									</a>
+								</div>
+													</div>
+
+
+					</div>
+				</div>
+							<div class="g-infolist-item g-infolist-with-icon g-infolist-with-img center">
+
+					<div class="g-infolist-item-container">
+
+						
+						
+																			<div class="g-infolist-item-icon center">
+																												<div class="g-infolist-pattern-2">
+									<svg width="105" height="70" viewbox="0 0 105 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+										<path d="M35 0L65.3109 17.5V52.5L35 70L4.68911 52.5V17.5L35 0Z" class="base-pattern-1"/>
+										<path d="M87.5 26L102.655 34.75V52.25L87.5 61L72.3446 52.25V34.75L87.5 26Z" class="base-pattern-2"/>
+									</svg>
+								</div>
+																												<i class="fa fa-calendar noaccent"></i>
+						</div>
+						
+						
+																			<div class="g-infolist-item-img g-block size-22 center ">
+							
+								<img src="/templates/rt_horizon/custom/images/stories/rotater/seder-slider.jpg" alt="/Próximas%20datas"/>
+
+														</div>
+						
+						
+						<div class="g-infolist-item-text  g-infolist-textstyle-compact">
+
+							
+							<div class="g-infolist-item-title ">Próximas datas</div>
+															<div class="g-infolist-item-desc">
+									
+										Festa de Pessach - 22 a 30 de abril, 2024.
+A festa da liberdade
+
+																		</div>
+							
+															<div class="g-infolist-link">
+									<a href="https://chabadcuritiba.com/index.php/services/sinagoga?view=article&amp;id=157&amp;catid=13-festas" target="_self" class="">
+																				Saber mais -&gt;
+									</a>
+								</div>
+													</div>
+
+
+					</div>
+				</div>
+							<div class="g-infolist-item g-infolist-with-icon g-infolist-with-img center">
+
+					<div class="g-infolist-item-container">
+
+						
+						
+																			<div class="g-infolist-item-icon center">
+																																			<div class="g-infolist-pattern-3">
+									<svg width="105" height="70" viewbox="0 0 105 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+										<path d="M35 0L65.3109 17.5V52.5L35 70L4.68911 52.5V17.5L35 0Z" class="base-pattern-3"/>
+										<path d="M87.5 26L102.655 34.75V52.25L87.5 61L72.3446 52.25V34.75L87.5 26Z" class="base-pattern-1"/>
+									</svg>
+								</div>
+																					<i class="fa fa-book accent-color-1"></i>
+						</div>
+						
+						
+																			<div class="g-infolist-item-img g-block size-22 center ">
+							
+								<img src="/templates/rt_horizon/custom/images/stories/static/revista30-site.jpg" alt="/Revista"/>
+
+														</div>
+						
+						
+						<div class="g-infolist-item-text  g-infolist-textstyle-compact">
+
+							
+							<div class="g-infolist-item-title ">Revista</div>
+															<div class="g-infolist-item-desc">
+									
+										A revista do Beit Chabad - em formato digital
+
+																		</div>
+							
+															<div class="g-infolist-link">
+									<a href="https://issuu.com/beitchabad/docs/revista_beit_chabad" target="_blank" class="">
+																				Leia agora -&gt;
+									</a>
+								</div>
+													</div>
+
+
+					</div>
+				</div>
+			
+		</div>
+	</div>
+            </div>
+        </div>
+            </div>
+            
+    </section>
+                                        
+                <section id="g-utility" class="section-horizontal-paddings section-vertical-paddings">
+                                        <div class="g-grid">                        
+
+        <div class="g-block size-100">
+             <div id="cta-9392-particle" class="g-content g-particle">            <div class="g-cta">
+			<div class="g-cta-patterns-left">
+			<svg viewbox="0 0 1199 241" fill="none" xmlns="http://www.w3.org/2000/svg">
+				<path d="M116 141L159.301 166V216L116 241L72.6987 216V166L116 141Z" class="base-pattern-1"/>
+				<path d="M69.5 125L84.6554 133.75V151.25L69.5 160L54.3446 151.25V133.75L69.5 125Z" class="base-pattern-2"/>
+				<path d="M35 149L65.3109 166.5V201.5L35 219L4.68911 201.5V166.5L35 149Z" class="base-pattern-3"/>
+			</svg>
+		</div>
+		<div class="g-cta-patterns-right">
+			<svg viewbox="0 0 1199 241" fill="none" xmlns="http://www.w3.org/2000/svg">
+				<path d="M1083 0L1126.3 25V75L1083 100L1039.7 75V25L1083 0Z" class="base-pattern-3"/>
+				<path d="M808 8L838.311 25.5V60.5L808 78L777.689 60.5V25.5L808 8Z" class="base-pattern-1"/>
+				<path d="M707 138L737.311 155.5V190.5L707 208L676.689 190.5V155.5L707 138Z" class="base-pattern-2"/>
+				<path d="M1164 8L1194.31 25.5V60.5L1164 78L1133.69 60.5V25.5L1164 8Z" class="base-pattern-2"/>
+				<path d="M1181.5 75L1196.66 83.75V101.25L1181.5 110L1166.34 101.25V83.75L1181.5 75Z" class="base-pattern-3"/>
+			</svg>
+		</div>
+				<div class="g-cta-left">
+			<h2>Aulas da Torá</h2>
+			<p>Amplia seu conhecimento!
+O Beit Chabad oferece aulas semanais da Parashá, Tanya e a parte místico da Torá, aula para as mulheres e aulas para jovens universitárias como também aulas para Bar e Bat Mitzvá.</p>
+		</div>
+		<div class="g-cta-right">
+			<div class="g-cta-button">
+				<a href="#" target="_self"  class="button button-2" title="Entre em contato conosco">
+					Entre em contato conosco
+				</a>
+				<p>ou simplesmente ligue para nós <br /> 41 3023-1398</p>
+			</div>
+
+		</div>
+	</div>
+            </div>
+        </div>
+            </div>
+            
+    </section>
+                                    
+                                    
+                <section id="g-expanded" class="section-horizontal-paddings section-vertical-paddings-large">
+                                        <div class="g-grid">                        
+
+        <div class="g-block size-100 center">
+             <div id="team-4014-particle" class="g-content g-particle">            <div class="g-team-pattern">
+	<svg viewbox="0 0 1280 461" fill="none" xmlns="http://www.w3.org/2000/svg">
+		<path d="M634 106L664.311 123.5V158.5L634 176L603.689 158.5V123.5L634 106Z" class="base-pattern-1"/>
+		<path d="M513 322L543.311 339.5V374.5L513 392L482.689 374.5V339.5L513 322Z" class="base-pattern-3"/>
+		<path d="M308 201L338.311 218.5V253.5L308 271L277.689 253.5V218.5L308 201Z" class="base-pattern-2"/>
+		<path d="M0 101L73.6122 143.5V228.5L0 271L-73.6122 228.5V143.5L0 101Z" class="base-pattern-3"/>
+		<path d="M750.5 135L765.655 143.75V161.25L750.5 170L735.345 161.25V143.75L750.5 135Z" class="base-pattern-3"/>
+		<path d="M956.5 135L971.655 143.75V161.25L956.5 170L941.345 161.25V143.75L956.5 135Z" class="base-pattern-2"/>
+		<path d="M684 226L714.311 243.5V278.5L684 296L653.689 278.5V243.5L684 226Z" class="base-pattern-2"/>
+		<path d="M853 276L883.311 293.5V328.5L853 346L822.689 328.5V293.5L853 276Z" class="base-pattern-1"/>
+		<path d="M428 135L458.311 152.5V187.5L428 205L397.689 187.5V152.5L428 135Z" class="base-pattern-3"/>
+		<path d="M1198 0L1314.91 67.5V202.5L1198 270L1081.09 202.5V67.5L1198 0Z" class="base-pattern-3"/>
+		<path d="M237 361L280.301 386V436L237 461L193.699 436V386L237 361Z" class="base-pattern-3"/>
+	</svg>
+</div>
+	<div id="team-4014" data-team-id="team-4014" class=" g-team">
+									<h2 class="g-title">
+					Serviços
+				</h2>
+			
+							<p class="g-desc">Estes são alguns dos serviços que oferecemos.</p>
+					
+		<div class="g-team-grid">
+			<ul class="team-members">
+
+									<li class="hex notempty nameonlyno">
+																					<a class="hexIn" href="#" target="_self">
+																										<img src="/templates/rt_horizon/custom/images/stories/static/Mikve-site.jpg" alt="Mikvê"/>
+																		<h1><span>Mikvê</span></h1>
+																		<p><span>Pureza familiar</span></p>
+																											</a>
+																			</li>
+									<li class="hex notempty nameonlyno">
+																					<a class="hexIn" href="#" target="_self">
+																										<img src="/images/stories/static/bar_tora.jpg" alt="Aulas para Bar Mitzvá"/>
+																		<h1><span>Aulas para Bar Mitzvá</span></h1>
+																		<p><span>Aliyá da Torá etc.</span></p>
+																											</a>
+																			</li>
+									<li class="hex empty nameonlyno">
+											</li>
+									<li class="hex notempty nameonlyno">
+																					<a class="hexIn" href="#" target="_self">
+																										<img src="/images/stories/special-programs/espaco-mulher/espaco-mulher-4.jpg" alt="Espaço da Mulher"/>
+																		<h1><span>Espaço da Mulher</span></h1>
+																		<p><span>Encontros semanais</span></p>
+																											</a>
+																			</li>
+									<li class="hex empty nameonlyno">
+											</li>
+									<li class="hex empty nameonlyno">
+											</li>
+									<li class="hex notempty nameonlyno">
+																					<a class="hexIn" href="#" target="_self">
+																										<img src="/images/stories/albums/israel-course/Israel-3d-1.jpg" alt="Colel"/>
+																		<h1><span>Colel</span></h1>
+																		<p><span>Centro de Estudos</span></p>
+																											</a>
+																			</li>
+									<li class="hex notempty nameonlyno">
+																					<a class="hexIn" href="#" target="_self">
+																										<img src="/images/stories/static/logo_ki_tov.gif" alt="Ki Tov"/>
+																		<h1><span>Ki Tov</span></h1>
+																		<p><span>Loja e cozinha Casher</span></p>
+																											</a>
+																			</li>
+									<li class="hex notempty nameonlyno">
+																					<a class="hexIn" href="#" target="_self">
+																										<img src="/images/stories/eChabad/5775/35/colonia.jpg" alt="Gan Israel"/>
+																		<h1><span>Gan Israel</span></h1>
+																		<p><span>Colônia de Férias</span></p>
+																											</a>
+																			</li>
+									<li class="hex empty nameonlyno">
+											</li>
+									<li class="hex notempty nameonlyno">
+																					<a class="hexIn" href="#" target="_self">
+																										<img src="/images/stories/jovens/selfilin.jpg" alt="Kiruv - Projeto Alicerces"/>
+																		<h1><span>Kiruv - Projeto Alicerces</span></h1>
+																		<p><span>Aulas e viagens para jovens</span></p>
+																											</a>
+																			</li>
+									<li class="hex notempty nameonlyno">
+																					<a class="hexIn" href="#" target="_self">
+																										<img src="/images/stories/static/mezuza.jpg" alt="Mezuzot &amp; Tefilin"/>
+																		<h1><span>Mezuzot & Tefilin</span></h1>
+																		<p><span>Verificação e venda</span></p>
+																											</a>
+																			</li>
+									<li class="hex notempty nameonlyyes">
+																					<a class="hexIn" href="/../index.php/services" target="_self">
+																										<h1><span>Veja Mais!</span></h1>
+																											</a>
+																			</li>
+				
+			</ul>
+		</div>
+	</div>
+            </div>
+        </div>
+            </div>
+            
+    </section>
+                                        
+                <section id="g-bottom" class="fp-bottom">
+                                        <div class="g-grid">                        
+
+        <div class="g-block size-100 nomarginall nopaddingall">
+             <div id="video-2872-particle" class="g-content g-particle">            <div class="g-video-container g-video-container-columns-1 " >
+<div class="g-headertext">Let there be light</div>    
+    
+    <div class="g-video-inner">
+        <div id="g-video-2872-1" data-g-video-id="g-video-2872-1"  class="g-video">
+            
+                        <iframe width="100%" height="auto" src="https://www.youtube.com/embed/wUdXe-sAeF8?showinfo=0&amp;autoplay=0&amp;controls=0&amp;loop=1&amp;playlist=wUdXe-sAeF8&amp;rel=0&amp;mute=0&amp;start=0" frameborder="0" allowfullscreen></iframe>
+            
+            
+                
+                                            </div>
+                        <div class="g-video-captions">
+                                                                        </div>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+            </div>
+            
+    </section>
+                                        
+                <footer id="g-footer" class="section-vertical-paddings section-horizontal-paddings">
+                                        <div class="g-grid">                        
+
+        <div class="g-block size-25">
+             <div id="simplecontent-3257-particle" class="g-content g-particle">            <div class="">
+        <div class="g-simplecontent">
+
+            
+                            <div class="g-simplecontent-item g-simplecontent-layout-standard">
+                    
+                    
+                    
+                    
+                                                                                            <div class="g-simplecontent-item-content-title">Chabad</div>
+                                                                
+                                        <div class="g-simplecontent-item-main-content">A filosofia de Chabad é baseada no amor incondicional e na aceitação
+de todas as pessoas e o reconhecimento da singularidade de cada indivíduo.
+Por meio de seus serviços educacionais, sociais e religiosos, Chabad-Lubavitch está empenhada em enriquecer a vida do maior número possível de judeus.</div>
+                                    </div>
+            
+        </div>
+    </div>
+            </div>
+        </div>
+                    
+
+        <div class="g-block size-75">
+             <div id="simplemenu-6262-particle" class="g-content g-particle">            <div class="g-simplemenu-particle ">
+    
+        <div class="g-simplemenu-container">
+        <h6>Sobre Chabad</h6>
+        <ul class="g-simplemenu">
+                        <li>
+                                <a target="_self" href="/index.php/chabad/about" title="Chabad em Curitiba">Chabad em Curitiba</a>
+            </li>
+                        <li>
+                                <a target="_blank" href="https://pt.chabad.org/library/article_cdo/aid/602732/jewish/O-Movimento-Chabad-Lubavitch.htm" title="O movimento Chabad">O movimento Chabad</a>
+            </li>
+                        <li>
+                                <a target="_self" href="/index.php/chabad/rebbe" title="O Rebe">O Rebe</a>
+            </li>
+                        <li>
+                                <a target="_blank" href="https://pt.chabad.org/centers/default.asp" title="Chabad no mundo">Chabad no mundo</a>
+            </li>
+                        <li>
+                                <a target="_blank" href="https://pt.chabad.org/library/article_cdo/aid/602988/jewish/hel.htm" title="Ohel">Ohel</a>
+            </li>
+                    </ul>
+    </div>
+    <div class="g-simplemenu-container">
+        <h6>Ferramentas e Recursos</h6>
+        <ul class="g-simplemenu">
+                        <li>
+                                <a target="_self" href="/index.php/chabad/echabad" title="Newsletter">Newsletter</a>
+            </li>
+                        <li>
+                                <a target="_blank" href="https://pt.chabad.org/calendar/default_cdo/jewish/Calendrio.htm" title="Calendário judaica">Calendário judaica</a>
+            </li>
+                        <li>
+                                <a target="_blank" href="https://pt.chabad.org/dailystudy/default_cdo/jewish/Estudos-Dirios.htm" title="Estudos diários">Estudos diários</a>
+            </li>
+                        <li>
+                                <a target="_blank" href="https://pt.chabad.org/calendar/candlelighting_cdo/locationid/941/locationtype/1/save/1/tdate" title="Horário das velas">Horário das velas</a>
+            </li>
+                    </ul>
+    </div>
+    <div class="g-simplemenu-container">
+        <h6>Serviços</h6>
+        <ul class="g-simplemenu">
+                        <li>
+                                <a target="_self" href="/../index.php/services/sinagoga" title="Sinagoga">Sinagoga</a>
+            </li>
+                        <li>
+                                <a target="_self" href="/../index.php/services/ganenu" title="Ganênu">Ganênu</a>
+            </li>
+                        <li>
+                                <a target="_self" href="/../index.php/services/mikve" title="Mikvê">Mikvê</a>
+            </li>
+                        <li>
+                                <a target="_self" href="/../joomla4/index.php/services/store/in-store" title="KiTov">KiTov</a>
+            </li>
+                        <li>
+                                <a target="_self" href="/../index.php/colel" title="Colel">Colel</a>
+            </li>
+                        <li>
+                                <a target="_self" href="/../index.php/kiruv" title="Juventude">Juventude</a>
+            </li>
+                    </ul>
+    </div>
+    <div class="g-simplemenu-container">
+        <h6>Links rápidos</h6>
+        <ul class="g-simplemenu">
+                        <li>
+                                <a target="_blank" href="https://pt.chabad.org/holidays/default_cdo/jewish/Festas-Judaicas.htm" title="Festas Judaicas">Festas Judaicas</a>
+            </li>
+                        <li>
+                                <a target="_blank" href="https://pt.chabad.org/library/article_cdo/aid/602864/jewish/Shabat.htm" title="Shabat">Shabat</a>
+            </li>
+                        <li>
+                                <a target="_blank" href="https://pt.chabad.org/library/article_cdo/aid/602866/jewish/Cashrut.htm" title="Cashrut">Cashrut</a>
+            </li>
+                        <li>
+                                <i class="fa fa-envelope"></i>
+                                <a target="_self" href="/../index.php/contact" title="envie-nos um e-mail">envie-nos um e-mail</a>
+            </li>
+                    </ul>
+    </div>
+
+</div>
+            </div>
+        </div>
+            </div>
+                            <div class="g-grid">                        
+
+        <div class="g-block size-100 center">
+             <div id="copyright-2971-particle" class="g-content g-particle">            &copy;
+        2026
+    Beit Chabad do Paraná - Todos os direitos redervados.
+            </div>
+        </div>
+            </div>
+            
+    </footer>
+                                
+                        
+
+        </div>
+                    
+
+                        <script type="text/javascript" src="/media/gantry5/assets/js/main.js"></script>
+    <script type="text/javascript" src="/media/gantry5/assets/js/lightcase.js"></script>
+    <script type="text/javascript" src="/templates/rt_horizon/js/swiper.min.js"></script>
+    <script type="text/javascript" src="/templates/rt_horizon/js/slider.init.js"></script>
+    <script type="text/javascript" src="/templates/rt_horizon/js/team.init.js"></script>
+    <script type="text/javascript">jQuery(document).ready(function($) { jQuery('[data-rel^=lightcase]').lightcase({maxWidth: '100%', maxHeight: '100%', video: {width: '1280', height: '720'}}); });</script>
+    <script type="text/javascript" src="/templates/rt_horizon/js/video.init.js"></script>
+    
+
+    
+
+        
+    </body>
+</html>
+
