@@ -25,3 +25,7 @@
 .card img{margin-top:.8rem;border-radius:12px;width:100%;height:auto}
 .small-muted{font-size:.86rem;color:var(--muted)}
 
+
+.source-content img{max-width:min(320px,100%);height:auto;display:block;border-radius:10px;margin:.6rem 0}
+.source-content table img{max-width:120px}
+
