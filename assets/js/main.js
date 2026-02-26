@@ -1,22 +1,12 @@
-﻿const menuToggle = document.getElementById("menuToggle");
-const menu = document.getElementById("menu");
+﻿const toggle=document.getElementById("menuToggle");
+const menu=document.getElementById("menu");
+if(toggle&&menu){toggle.addEventListener("click",()=>{const o=menu.classList.toggle("open");toggle.setAttribute("aria-expanded",String(o));});}
 
-if (menuToggle && menu) {
-  menuToggle.addEventListener("click", () => {
-    const isOpen = menu.classList.toggle("open");
-    menuToggle.setAttribute("aria-expanded", String(isOpen));
+document.querySelectorAll('.has-sub > a').forEach((link)=>{
+  link.addEventListener('click',(e)=>{
+    if(window.innerWidth<=980){
+      e.preventDefault();
+      link.parentElement.classList.toggle('open');
+    }
   });
-}
-
-const observer = new IntersectionObserver(
-  (entries) => {
-    entries.forEach((entry) => {
-      if (entry.isIntersecting) {
-        entry.target.classList.add("is-visible");
-      }
-    });
-  },
-  { threshold: 0.15 }
-);
-
-document.querySelectorAll(".reveal").forEach((el) => observer.observe(el));
+});

@@ -3,21 +3,24 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Sobre | Beit Chabad Curitiba</title>
-  <meta name="description" content="Beit Chabad Curitiba" />
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700&family=Fraunces:opsz,wght@9..144,400;9..144,600&display=swap" rel="stylesheet">
+  <title>Quem somos | Beit Chabad Curitiba</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="/assets/css/style.css" />
 </head>
 <body>
-  <div class="bg-orb orb-1" aria-hidden="true"></div>
-  <div class="bg-orb orb-2" aria-hidden="true"></div>
-
   <header class="topbar">
     <div class="container topbar-inner">
-      <p>B"H - Beit Chabad Curitiba, Paraná</p>
-      <a href="tel:+554130231398">41 3023-1398</a>
+      <div class="top-left">
+        <span>B"H - Beit Chabad</span>
+        <span>Curitiba, Paraná</span>
+      </div>
+      <div class="top-right">
+        <a href="https://www.facebook.com/ChabadCuritiba" target="_blank" rel="noopener">Facebook</a>
+        <a href="https://www.twitter.com/ChabadCuritiba" target="_blank" rel="noopener">Twitter</a>
+        <a href="/contact">Contato</a>
+      </div>
     </div>
   </header>
 
@@ -28,49 +31,78 @@
     </a>
     <button id="menuToggle" class="menu-toggle" aria-expanded="false" aria-label="Abrir menu">Menu</button>
     <ul id="menu" class="menu">
-      <li><a href="/">Início</a></li>
-      <li><a href="/about">Sobre</a></li>
-      <li><a href="/services">Serviços</a></li>
+      <li class="has-sub"><a href="/about">Chabad</a>
+        <ul class="submenu">
+          <li><a href="/about">Quem somos?</a></li>
+          <li><a href="/rebbe">O Rebe</a></li>
+          <li><a href="/donate">Doação</a></li>
+          <li><a href="/echabad">eChabad</a></li>
+          <li><a href="/mitzvot">Campanha das Mitsvot</a></li>
+        </ul>
+      </li>
+      <li class="has-sub"><a href="/services">Serviços</a>
+        <ul class="submenu">
+          <li><a href="/services/sinagoga">Sinagoga</a></li>
+          <li><a href="/services/sinagoga/festas">As grandes Festas</a></li>
+          <li><a href="/services/ganenu">Ganênu</a></li>
+          <li><a href="/services/mikve">Mikvê</a></li>
+          <li><a href="/services/kitov">KiTov</a></li>
+          <li><a href="/services/kitov/loja">Loja KiTov</a></li>
+          <li><a href="/colel">Colel</a></li>
+          <li><a href="/kiruv">Juventude</a></li>
+        </ul>
+      </li>
       <li><a href="/classes">Aulas</a></li>
       <li><a href="/donate">Doar</a></li>
       <li><a href="/contact">Contato</a></li>
     </ul>
+    <form class="searchbar" action="/search" method="get">
+      <input type="text" name="q" placeholder="Pesquisar..." />
+    </form>
   </nav>
-
-  <main>
-    <section class="section container reveal is-visible">
-      <div class="section-head">
-        <p class="kicker">Sobre nós</p>
-        <h2>Tradição, educação e cuidado comunitário</h2>
-      </div>
-      <div class="cards three">
-        <article class="card"><h3>Sinagoga</h3><p>Rezas, grandes festas e encontros comunitários.</p></article>
-        <article class="card"><h3>Educação</h3><p>Aulas semanais de Torá, Parashá e Tanya para diferentes públicos.</p></article>
-        <article class="card"><h3>Projetos</h3><p>Iniciativas para famílias, juventude e fortalecimento da identidade judaica.</p></article>
-      </div>
-    </section>
-  </main>
-
-  <footer class="footer reveal is-visible">
-    <div class="container footer-grid">
+<main>
+<section class="section container page-block">
+  <p class="eyebrow">Chabad</p>
+  <h1>Quem somos?</h1>
+  <p>O Beit Chabad em Curitiba atua com educação, acolhimento e fortalecimento da identidade judaica na comunidade local.</p>
+</section>
+</main>
+  <footer class="footer">
+    <div class="container footer-grid-4">
       <div>
-        <h3>Beit Chabad do Paraná</h3>
-        <p>Curitiba, Paraná</p>
-        <p><a href="mailto:contato@beitchabad.com">contato@beitchabad.com</a></p>
-        <p><a href="tel:+554130231398">41 3023-1398</a></p>
+        <h4>Chabad</h4>
+        <p>A filosofia de Chabad é baseada no amor incondicional e na aceitação de todas as pessoas.</p>
       </div>
       <div>
-        <h4>Links rápidos</h4>
+        <h4>Sobre Chabad</h4>
         <ul>
-          <li><a href="/services">Serviços</a></li>
-          <li><a href="/classes">Aulas</a></li>
-          <li><a href="/donate">Doações</a></li>
+          <li><a href="/about">Chabad em Curitiba</a></li>
+          <li><a href="/rebbe">O Rebe</a></li>
+          <li><a href="/echabad">Newsletter</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Ferramentas e Recursos</h4>
+        <ul>
+          <li><a href="https://pt.chabad.org/calendar/default_cdo/jewish/Calendrio.htm" target="_blank" rel="noopener">Calendário Judaico</a></li>
+          <li><a href="https://pt.chabad.org/dailystudy/default_cdo/jewish/Estudos-Dirios.htm" target="_blank" rel="noopener">Estudos diários</a></li>
+          <li><a href="https://pt.chabad.org/calendar/candlelighting_cdo/locationid/941/locationtype/1/save/1/tdate" target="_blank" rel="noopener">Horário das velas</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Serviços</h4>
+        <ul>
+          <li><a href="/services/sinagoga">Sinagoga</a></li>
+          <li><a href="/services/ganenu">Ganênu</a></li>
+          <li><a href="/services/mikve">Mikvê</a></li>
+          <li><a href="/services/kitov">KiTov</a></li>
+          <li><a href="/colel">Colel</a></li>
+          <li><a href="/kiruv">Juventude</a></li>
         </ul>
       </div>
     </div>
-    <p class="copyright">© 2026 Beit Chabad do Paraná. Todos os direitos reservados.</p>
+    <p class="copyright">© 2026 Beit Chabad do Paraná - Todos os direitos reservados.</p>
   </footer>
-
-  <script src="/assets/js/main.js"></script>
+<script src="/assets/js/main.js"></script>
 </body>
 </html>
